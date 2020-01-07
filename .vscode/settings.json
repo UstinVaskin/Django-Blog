@@ -1,3 +1,5 @@
 {
-  "python.pythonPath": "/Users/ustinvaskin/.local/share/virtualenvs/Django-Blog-msEdWFJ-/bin/python"
+  "python.pythonPath": "/Users/ustinvaskin/.local/share/virtualenvs/Django-Blog-msEdWFJ-/bin/python",
+  "editor.detectIndentation": false,
+  "editor.tabSize": 8
 }
